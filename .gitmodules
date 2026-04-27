@@ -1,12 +1,20 @@
 [submodule "microservices/ordering"]
 	path = microservices/ordering
 	url = https://github.com/antoniotnn/ems-algashop-ordering.git
+	branch = master
 [submodule "docs"]
 	path = docs
 	url = https://github.com/antoniotnn/ems-algashop-docs.git
+	branch = master
 [submodule "microservices/billing"]
 	path = microservices/billing
 	url = https://github.com/antoniotnn/ems-algashop-billing.git
+	branch = master
 [submodule "microservices/product-catalog"]
 	path = microservices/product-catalog
 	url = https://github.com/antoniotnn/ems-algashop-product-catalog.git
+	branch = master
+[submodule "template"]
+	path = template
+	url = https://github.com/antoniotnn/ems-algashop-template.git
+	branch = master
